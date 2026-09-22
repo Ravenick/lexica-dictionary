@@ -3,11 +3,12 @@
 A polished, OC-themed dictionary PWA built around fast word lookup and personal vocabulary workflows. The interface demonstrates API-backed definitions, saved-word persistence, search history, profile customization, and light/dark theming inside an installable mobile-friendly dictionary experience.
 
 > [!NOTE]
-> [Live demo coming soon](#)
+> [Live demo](https://lexica-dictionary.vercel.app/)
 
 ## Preview
 
-
+![mobile](./public/mobile.png)
+![desktop](./public/desktop.png)
 
 
 ## Features
